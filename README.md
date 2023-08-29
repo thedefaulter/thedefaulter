@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Satyam Rai
-- 👀 I’m interested in Frontend Web development
-- 💞️ I’m looking to collaborate on FrontEnd Projects
+- 👋 Hi, I’m Satyam Kumar
+- 👀 I’m interested in Frontend Web development.
 - 📫 How to reach me whatsapp -> 9717276730 E-Mail -> raisatyam551@gmail.com
 
 <!---
